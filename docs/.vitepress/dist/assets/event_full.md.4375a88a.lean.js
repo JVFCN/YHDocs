@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as e,V as n}from"./chunks/framework.d3b95951.js";const g=JSON.parse('{"title":"事件订阅详述","description":"","frontmatter":{},"headers":[],"relativePath":"event/full.md","filePath":"event/full.md"}'),a={name:"event/full.md"},l=n("",21),o=[l];function r(p,c,y,D,d,F){return s(),e("div",null,o)}const x=t(a,[["render",r]]);export{g as __pageData,x as default};
